@@ -1,5 +1,5 @@
 """
-Fighting_Game_v1
+Fighting_Game
 
 Description:
 """
